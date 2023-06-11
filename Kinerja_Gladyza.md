@@ -1,2 +1,2 @@
 LANGKAH SATU 
-('C:\Users\ASUS\OneDrive\Documents\GitHub\adsis_gladyza\SS_Kinerja\gambar1.jpg')
+[![gambar1.jpg](https://i.postimg.cc/269h01X4/gambar1.jpg)](https://postimg.cc/R6fWFZmF)
